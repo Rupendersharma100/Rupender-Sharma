@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm RUPENDER SHARMA</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupendersharma100" alt="rupendersharma100" /></a> </p>
-
 - 🔭 I’m currently working on **Ecommerce Project**
 
 - 🌱 I’m currently learning **Software Engineering & Product Design**
